@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Calc",
+    "slug": "Calc",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "d27eb2f1-96e1-4838-a066-aa0cd8a0b3f4"
+      }
+    }
+  }
+}
